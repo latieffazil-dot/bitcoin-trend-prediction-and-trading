@@ -27,13 +27,13 @@ An end-to-end automated paper-trading system designed to execute short-term cryp
 
 ## 🛠️ Technology Stack
 * **Language:** Python
-* **Deep Learning Framework:** TensorFlow / Keras[cite: 2]
-* **Data Processing & Analytics:** Pandas, NumPy, Scikit-Learn (`StandardScaler`)[cite: 2]
-* **Persistence & Serialization:** Joblib[cite: 2]
-* **Visualization Engine:** Matplotlib (`gridspec`)[cite: 2]
+* **Deep Learning Framework:** TensorFlow / Keras
+* **Data Processing & Analytics:** Pandas, NumPy, Scikit-Learn (`StandardScaler`)
+* **Persistence & Serialization:** Joblib
+* **Visualization Engine:** Matplotlib (`gridspec`)
 
 ---
 
 ## 📁 Repository Map
-* `crypto_brain_v3.py` - Core application module containing the live ingest engine, DNN training routines, backtest logic, and execution dashboard[cite: 2].
+* `crypto_brain_v3.py` - Core application module containing the live ingest engine, DNN training routines, backtest logic, and execution dashboard.
 * `README.md` - Technical specification and architecture breakdown.
